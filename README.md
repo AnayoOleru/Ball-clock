@@ -2,7 +2,7 @@
 Day 2: Javascript 30 days challenge. All through 30 days, I'll be building things, a lot of things. Ball clock is a virtual instrument used to measure, keep, and indicate time.
 
 ## Link
-
+https://anayooleru.github.io/Ball-clock/.
 
 ## Challenge Road Map
 
