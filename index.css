@@ -4,6 +4,7 @@ html {
     font-family: 'helvetica neue';
     text-align: center;
     font-size: 10px;
+    width: 100%;
   }
 
   body {
@@ -49,4 +50,20 @@ html {
     transform: rotate(90deg);
     transition: all 0.05s;
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+  }
+
+  .description {
+      width: 100%;
+      padding-top: 50px;
+      color: white;
+  }
+
+  .description-text{
+      font-size: 20px;
+  }
+
+  .project-description {
+      position: absolute;
+      color: white;
+      left: 75px;
   }
